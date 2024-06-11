@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T14:29:28.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GJLQnUkWTmRwxi1AbX_m" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T14:30:47.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nYvjl7H61pRniN-1D41_" version="24.5.2" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1418" dy="730" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -259,9 +259,6 @@
         </mxCell>
         <mxCell id="IoKBdog-YVQ9_CF8IZFE-49" value="Flujos Cocha - Rindegastos" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="64" y="32" width="176" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="ylDifeKD4ARhA6bZGBgu-132" value="Location" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="1" vertex="1">
-          <mxGeometry x="624" y="1200" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
